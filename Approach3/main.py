@@ -9,7 +9,7 @@ async def fetch_details_from_file(filename, output_file):
             phone_numbers = file.read().splitlines()
 
         country_code = input("Enter the country code: ")
-        installation_id = 'a1i04--lJ4wiWkSFpWkitpsBvziJgWa5jqtTMwDMGclLmsCCciMdejfoQ7AOuEbJ'  # Replace with your Truecaller installation ID
+        installation_id = 'a1i0B--lJHUYnFckvSnrGVLtxhpEqmQDqpIS3fq7Cu9Pn02sLSDJ4-L5S7APgPwQ'  # Replace with your Truecaller installation ID
 
         results = []  # Store results for later writing to a file
 
