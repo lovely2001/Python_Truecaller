@@ -1,0 +1,42 @@
+Details for phone number 6395339208:
+{'name': 'Lovely', 'address': [{'city': 'Uttar Pradesh West', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 9321532143:
+{'name': 'Adarsh Rao', 'address': [{'city': 'Mumbai', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 9740228547:
+{'name': 'Jubin', 'address': [{'city': 'Karnataka', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 8377869717:
+{'name': 'Kamal Saifi', 'address': [{'address': 'IN', 'city': 'Delhi', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 8700717163:
+{'name': 'Jyoti', 'address': [{'city': 'Delhi', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 9334165077:
+{'name': 'Shubham Rajput Rajput', 'address': [{'address': 'IN', 'city': 'Bihar', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 7699948820:
+{'name': 'Kamalakanta', 'address': [{'city': 'West Bengal', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 6350383079:
+{'name': 'Shivraj Singh', 'address': [{'address': 'IN', 'city': 'Rajasthan', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 7351888011:
+{'name': 'Chandra Prakash', 'address': [{'address': 'IN', 'city': 'Uttar Pradesh West', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 9963488816:
+{'name': 'Prachet Balaji', 'address': [{'address': 'IN', 'city': 'Andhra Pradesh', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 8383927938:
+{'name': 'Rohan Singh', 'address': [{'address': 'IN', 'city': 'Delhi', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 7901828871:
+{'name': 'Himat Bhangu', 'address': [{'address': 'IN', 'city': 'Punjab', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 8523037828:
+{'name': 'Syed Jaffer Hl', 'address': [{'city': 'Andhra Pradesh', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
+Details for phone number 7905509879:
+{'name': 'Ks S', 'address': [{'address': 'IN', 'city': 'Uttar Pradesh East', 'countryCode': 'IN', 'timeZone': '+05:30', 'type': 'address'}]}
+==============================
